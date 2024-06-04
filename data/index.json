@@ -1,0 +1,49 @@
+{
+    "result": [
+        {
+            "productName": "Baby Ash",
+            "category": "Image",
+            "description": "A soft and gentle baby ash",
+            "amount": 100.59,
+            "img_url": "https://asheekasamuels.github.io/All-Images/baby-ash.jpg"
+
+        },
+
+        {
+            "productName": "Asheeka1",
+            "category": "Image",
+            "description": "A picture of asheeka here at LCA",
+            "amount": 100.59,
+            "img_url": "https://asheekasamuels.github.io/All-Images/Asheeka1.jpg"
+
+        },
+
+        {
+            "productName": "Aakifah",
+            "category": "Image",
+            "description": "A picture of Aakifah here at LCA",
+            "amount": 100.59,
+            "img_url": "https://asheekasamuels.github.io/All-Images/baby-Aakifah.jpg"
+
+        },
+
+        {
+            "productName": "Kyle",
+            "category": "Image",
+            "description": "A picture of Kyle here at LCA",
+            "amount": 100.59,
+            "img_url": "https://asheekasamuels.github.io/All-Images/baby-Kyle.jpg"
+
+        },
+
+        {
+            "productName": "Asheeka2",
+            "category": "Image",
+            "description": "A pic of Ash",
+            "amount": 100.59,
+            "img_url": "https://asheekasamuels.github.io/All-Images/baby-Asheeka2.jpg"
+
+        }
+
+    ]
+}
