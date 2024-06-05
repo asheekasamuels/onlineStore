@@ -2,15 +2,15 @@
     "result": [
         {
             "productName": "Asheeka3",
-            "category": "Image",
+            "category": "Asheeka",
             "description": "A picture of asheeka here at LCA",
             "amount": 100.59,
-            "img_url": "https://asheekasamuels.github.io/All-Images/images/Asheeka3.jpg"
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/BabyAsh.jpg"
 
         },
         {
             "productName": "Asheeka1",
-            "category": "Image",
+            "category": "Sheeks",
             "description": "A picture of asheeka here at LCA",
             "amount": 100.59,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/Asheeka1.jpg"
@@ -18,7 +18,7 @@
         },
         {
             "productName": "Aakifah",
-            "category": "Image",
+            "category": "Aakifah",
             "description": "A picture of Aakifah here at LCA",
             "amount": 100.59,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/Aakifah.jpg"
@@ -26,7 +26,7 @@
         },
         {
             "productName": "Kyle",
-            "category": "Image",
+            "category": "Kyle",
             "description": "A picture of Kyle here at LCA",
             "amount": 100.59,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/Kyle.jpg"
@@ -34,7 +34,7 @@
         },
         {
             "productName": "Asheeka2",
-            "category": "Image",
+            "category": "Tinkie",
             "description": "A pic of Ash",
             "amount": 100.59,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/Asheeka2.jpg"
