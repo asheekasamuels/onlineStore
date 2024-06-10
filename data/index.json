@@ -1,7 +1,7 @@
 {
     "result": [
         {
-            "productName": "bento1",
+            "productName": "Bento Cake With Cupcakes",
             "category": "Bento",
             "description": "Personalised bento cake with cupcakes",
             "amount": 250.00,
@@ -9,14 +9,14 @@
 
         },
         {
-            "productName": "Character1",
+            "productName": "Frozen Character Cake",
             "category": "Character",
             "description": "Personalised 1 tier cake",
             "amount": 350.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/character1.jpg"
         },
         {
-            "productName": "Cupcake1",
+            "productName": "Bluey Cupcakes",
             "category": "Cupcake",
             "description": "12 personalised cupcakes",
             "amount": 150.00,
@@ -24,7 +24,7 @@
 
         },
         {
-            "productName": "Heart1",
+            "productName": "Valintines Vintage Heart Cake",
             "category": "Vintage Heart",
             "description": "Heart shaped vintage cakes",
             "amount": 300.00,
