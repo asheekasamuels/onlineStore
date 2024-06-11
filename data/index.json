@@ -1,7 +1,7 @@
 {
     "result": [
         {
-            "productName": "bento1",
+            "productName": "Gold and White Bento Cake + 5 cupcakes",
             "category": "Bento",
             "description": "Personalised bento cake with cupcakes",
             "amount": 250.00,
@@ -9,7 +9,7 @@
 
         },
         {
-            "productName": "bento2",
+            "productName": "Butterfly Bento Cake + 5 cupcakes",
             "category": "Bento",
             "description": "Personalised bento cake with cupcakes",
             "amount": 250.00,
@@ -17,7 +17,7 @@
 
         },
         {
-            "productName": "bento3",
+            "productName": "Pink Bento Cake + 5 cupcakes",
             "category": "Bento",
             "description": "Personalised bento cake with cupcakes",
             "amount": 250.00,
@@ -25,7 +25,7 @@
 
         },
         {
-            "productName": "bento4",
+            "productName": "Hello Kitty Bento Cake + 5 cupcakes",
             "category": "Bento",
             "description": "Personalised bento cake with cupcakes",
             "amount": 250.00,
@@ -33,7 +33,7 @@
 
         },
         {
-            "productName": "bento5",
+            "productName": "Sunflower Bento Cake + 5 cupcakes",
             "category": "Bento",
             "description": "Personalised bento cake with cupcakes",
             "amount": 250.00,
@@ -41,7 +41,7 @@
 
         },
         {
-            "productName": "Character1",
+            "productName": "Frozen Character Cake",
             "category": "Character",
             "description": "Personalised 1 tier cake",
             "amount": 350.00,
@@ -49,7 +49,7 @@
 
         },
         {
-            "productName": "Character2",
+            "productName": "Cocomelon Character Cake",
             "category": "Character",
             "description": "Personalised 1 tier cake",
             "amount": 350.00,
@@ -57,7 +57,7 @@
 
         },
         {
-            "productName": "Character3",
+            "productName": "Paw Patrol Character Cake",
             "category": "Character",
             "description": "Personalised 1 tier cake",
             "amount": 350.00,
@@ -65,7 +65,7 @@
 
         },
         {
-            "productName": "Character4",
+            "productName": "SpongeBob Character Cake",
             "category": "Character",
             "description": "Personalised 1 tier cake",
             "amount": 350.00,
@@ -73,7 +73,7 @@
 
         },
         {
-            "productName": "Character5",
+            "productName": "Baby Shark Character Cake",
             "category": "Character",
             "description": "Personalised 1 tier cake",
             "amount": 350.00,
@@ -81,7 +81,7 @@
 
         },
         {
-            "productName": "Cupcake1",
+            "productName": "Bluey Cupcakes",
             "category": "Cupcake",
             "description": "12 personalised cupcakes",
             "amount": 150.00,
@@ -89,7 +89,7 @@
 
         },
         {
-            "productName": "Cupcake2",
+            "productName": "Real Madrid Cupcakes",
             "category": "Cupcake",
             "description": "12 personalised cupcakes",
             "amount": 150.00,
@@ -97,7 +97,7 @@
 
         },
         {
-            "productName": "Cupcake3",
+            "productName": "Blue Personalised Cupcakes",
             "category": "Cupcake",
             "description": "12 personalised cupcakes",
             "amount": 150.00,
@@ -105,7 +105,7 @@
 
         },
         {
-            "productName": "Cupcake4",
+            "productName": "Pink Personalised Cupcakes",
             "category": "Cupcake",
             "description": "12 personalised cupcakes",
             "amount": 150.00,
@@ -113,7 +113,7 @@
 
         },
         {
-            "productName": "Cupcake5",
+            "productName": "TwentyFirst Personalised Cupcakes",
             "category": "Cupcake",
             "description": "12 personalised cupcakes",
             "amount": 150.00,
@@ -121,7 +121,7 @@
 
         },
         {
-            "productName": "Heart1",
+            "productName": "Valentines Vintage Heart Cake",
             "category": "Vintage Heart",
             "description": "Heart shaped vintage cakes",
             "amount": 300.00,
@@ -129,7 +129,7 @@
 
         },
         {
-            "productName": "Heart2",
+            "productName": "Pink Vintage Heart Cake",
             "category": "Vintage Heart",
             "description": "Heart shaped vintage cakes",
             "amount": 300.00,
@@ -137,7 +137,7 @@
 
         },
         {
-            "productName": "Heart3",
+            "productName": "TwentyFirst Vintage Heart Cake",
             "category": "Vintage Heart",
             "description": "Heart shaped vintage cakes",
             "amount": 300.00,
@@ -145,7 +145,7 @@
 
         },
         {
-            "productName": "Heart4",
+            "productName": "Colorful Personalised Heart Cake",
             "category": "Vintage Heart",
             "description": "Heart shaped vintage cakes",
             "amount": 300.00,
@@ -153,77 +153,77 @@
 
         },
         {
-            "productName": "Heart5",
+            "productName": "Black and White Vintage Heart Cake",
             "category": "Vintage Heart",
             "description": "Heart shaped vintage cakes",
             "amount": 300.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/heart5.jpg"
         },
         {
-            "productName": "Number1",
+            "productName": "Cocomelon Number Cake",
             "category": "Number",
             "description": "Number cakes created with cupcakes of your choice",
             "amount": 200.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/number1.jpg"
         },
         {
-            "productName": "Number2",
+            "productName": "Black Pink Number Cake",
             "category": "Number",
             "description": "Number cakes created with cupcakes of your choice",
             "amount": 200.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/number2.jpg"
         },
         {
-            "productName": "Number3",
+            "productName": "Minecraft Number Cake",
             "category": "Number",
             "description": "Number cakes created with cupcakes of your choice",
             "amount": 200.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/number3.jpg"
         },
         {
-            "productName": "Number4",
+            "productName": "Rainbow Number Cake",
             "category": "Number",
             "description": "Number cakes created with cupcakes of your choice",
             "amount": 200.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/number4.jpg"
         },
         {
-            "productName": "Number5",
+            "productName": "Wild Life Number Cake",
             "category": "Number",
             "description": "Number cakes created with cupcakes of your choice",
             "amount": 200.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/number5.jpg"
         },
         {
-            "productName": "Tier1",
+            "productName": "Floral Two Tier Cake",
             "category": "Two Tier",
             "description": "Personalised 2 tier cake",
             "amount": 450.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/tier1.jpg"
         },
         {
-            "productName": "Tier2",
+            "productName": "Floral 70th Two Tier Cake",
             "category": "Two Tier",
             "description": "Personalised 2 tier cake",
             "amount": 450.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/tier2.jpg"
         },
         {
-            "productName": "Tier3",
+            "productName": "Liverpool Two Tier Cake",
             "category": "Two Tier",
             "description": "Personalised 2 tier cake",
             "amount": 450.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/tier3.jpg"
         },
         {
-            "productName": "Tier4",
+            "productName": "Bluey Two Tier Cake",
             "category": "Two Tier",
             "description": "Personalised 2 tier cake",
             "amount": 450.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/tier4.jpg"
         },
         {
-            "productName": "Tier5",
+            "productName": "Colorful Daisy Two Tier Cake",
             "category": "Two Tier",
             "description": "Personalised 2 tier cake",
             "amount": 450.00,
