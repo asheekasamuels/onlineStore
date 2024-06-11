@@ -1,7 +1,7 @@
 {
     "result": [
         {
-            "productName": "Bento Cake With Cupcakes",
+            "productName": "bento1",
             "category": "Bento",
             "description": "Personalised bento cake with cupcakes",
             "amount": 250.00,
@@ -9,14 +9,87 @@
 
         },
         {
-            "productName": "Frozen Character Cake",
+            "productName": "bento2",
+            "category": "Bento",
+            "description": "Personalised bento cake with cupcakes",
+            "amount": 250.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/bento2.jpg"
+
+        },
+        {
+            "productName": "bento3",
+            "category": "Bento",
+            "description": "Personalised bento cake with cupcakes",
+            "amount": 250.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/bento3.jpg"
+
+        },
+        {
+            "productName": "bento4",
+            "category": "Bento",
+            "description": "Personalised bento cake with cupcakes",
+            "amount": 250.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/bento4.jpg"
+
+        },
+        {
+            "productName": "bento5",
+            "category": "Bento",
+            "description": "Personalised bento cake with cupcakes",
+            "amount": 250.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/bento5.jpg"
+
+        },
+        {
+            "productName": "Character1",
             "category": "Character",
             "description": "Personalised 1 tier cake",
             "amount": 350.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/character1.jpg"
+
         },
         {
-            "productName": "Bluey Cupcakes",
+            "productName": "Character2",
+            "category": "Character",
+            "description": "Personalised 1 tier cake",
+            "amount": 350.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/character2.jpg"
+
+        },
+        {
+            "productName": "Character3",
+            "category": "Character",
+            "description": "Personalised 1 tier cake",
+            "amount": 350.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/character3.jpg"
+
+        },
+        {
+            "productName": "Character3",
+            "category": "Character",
+            "description": "Personalised 1 tier cake",
+            "amount": 350.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/character3.jpg"
+
+        },
+        {
+            "productName": "Character4",
+            "category": "Character",
+            "description": "Personalised 1 tier cake",
+            "amount": 350.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/character4.jpg"
+
+        },
+        {
+            "productName": "Character5",
+            "category": "Character",
+            "description": "Personalised 1 tier cake",
+            "amount": 350.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/character5.jpg"
+
+        },
+        {
+            "productName": "Cupcake1",
             "category": "Cupcake",
             "description": "12 personalised cupcakes",
             "amount": 150.00,
@@ -24,12 +97,75 @@
 
         },
         {
-            "productName": "Valintines Vintage Heart Cake",
+            "productName": "Cupcake2",
+            "category": "Cupcake",
+            "description": "12 personalised cupcakes",
+            "amount": 150.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/cupcake2.jpg"
+
+        },
+        {
+            "productName": "Cupcake3",
+            "category": "Cupcake",
+            "description": "12 personalised cupcakes",
+            "amount": 150.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/cupcake3.jpg"
+
+        },
+        {
+            "productName": "Cupcake4",
+            "category": "Cupcake",
+            "description": "12 personalised cupcakes",
+            "amount": 150.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/cupcake4.jpg"
+
+        },
+        {
+            "productName": "Cupcake5",
+            "category": "Cupcake",
+            "description": "12 personalised cupcakes",
+            "amount": 150.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/cupcake5.jpg"
+
+        },
+        {
+            "productName": "Heart1",
             "category": "Vintage Heart",
             "description": "Heart shaped vintage cakes",
             "amount": 300.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/heart1.jpg"
 
+        },
+        {
+            "productName": "Heart2",
+            "category": "Vintage Heart",
+            "description": "Heart shaped vintage cakes",
+            "amount": 300.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/heart2.jpg"
+
+        },
+        {
+            "productName": "Heart3",
+            "category": "Vintage Heart",
+            "description": "Heart shaped vintage cakes",
+            "amount": 300.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/heart3.jpg"
+
+        },
+        {
+            "productName": "Heart4",
+            "category": "Vintage Heart",
+            "description": "Heart shaped vintage cakes",
+            "amount": 300.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/heart4.jpg"
+
+        },
+        {
+            "productName": "Heart5",
+            "category": "Vintage Heart",
+            "description": "Heart shaped vintage cakes",
+            "amount": 300.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/heart5.jpg"
         },
         {
             "productName": "Number1",
@@ -39,11 +175,67 @@
             "img_url": "https://asheekasamuels.github.io/All-Images/images/number1.jpg"
         },
         {
+            "productName": "Number2",
+            "category": "Number",
+            "description": "Number cakes created with cupcakes of your choice",
+            "amount": 200.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/number2.jpg"
+        },
+        {
+            "productName": "Number3",
+            "category": "Number",
+            "description": "Number cakes created with cupcakes of your choice",
+            "amount": 200.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/number3.jpg"
+        },
+        {
+            "productName": "Number4",
+            "category": "Number",
+            "description": "Number cakes created with cupcakes of your choice",
+            "amount": 200.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/number4.jpg"
+        },
+        {
+            "productName": "Number5",
+            "category": "Number",
+            "description": "Number cakes created with cupcakes of your choice",
+            "amount": 200.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/number5.jpg"
+        },
+        {
             "productName": "Tier1",
             "category": "Two Tier",
             "description": "Personalised 2 tier cake",
             "amount": 450.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/tier1.jpg"
+        },
+        {
+            "productName": "Tier2",
+            "category": "Two Tier",
+            "description": "Personalised 2 tier cake",
+            "amount": 450.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/tier2.jpg"
+        },
+        {
+            "productName": "Tier3",
+            "category": "Two Tier",
+            "description": "Personalised 2 tier cake",
+            "amount": 450.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/tier3.jpg"
+        },
+        {
+            "productName": "Tier4",
+            "category": "Two Tier",
+            "description": "Personalised 2 tier cake",
+            "amount": 450.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/tier4.jpg"
+        },
+        {
+            "productName": "Tier5",
+            "category": "Two Tier",
+            "description": "Personalised 2 tier cake",
+            "amount": 450.00,
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/tier5.jpg"
         }
     ]
 }
