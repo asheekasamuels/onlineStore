@@ -79,7 +79,7 @@
             "category": "BUBS",
             "description": "Sweet Candy",
             "amount": 80.00,
-            "img_url": "https://asheekasamuels.github.io/All-Images/images/BUBSWildStrawberryPomegranateOvals.pngg"
+            "img_url": "https://asheekasamuels.github.io/All-Images/images/BUBSWildStrawberryPomegranateOvals.png"
 
         },
         {
@@ -87,7 +87,7 @@
             "productName": "BUBS Cool Raspberry Foam Skulls",
             "category": "BUBS",
             "description": "Sour Candy",
-            "amount": 80.00,
+            "amount": 0.00,
             "img_url": "https://asheekasamuels.github.io/All-Images/images/BUBSCoolRaspberryFoamSkulls.png"
 
         }
